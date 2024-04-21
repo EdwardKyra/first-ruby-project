@@ -2,8 +2,6 @@ source "https://rubygems.org"
 
 gem 'coffee-script-source', '~> 1.11', '>= 1.11.1'
 
-gem 'bootstrap-sass', '3.2.0.2'
-
 ruby "3.2.0"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
